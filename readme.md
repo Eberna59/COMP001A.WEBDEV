@@ -1,2 +1,2 @@
 Author: Evan Berna
-Purpose:
+Purpose: Showing how to make a almost full webpage
