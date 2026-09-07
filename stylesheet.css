@@ -1,0 +1,28 @@
+nav {
+    border: 1px;
+    border-collapse: collapse;
+    margin: .5em;
+}
+
+h1{
+    border: 1px;
+    border-collapse: collapse;
+    margin: .5em;
+}
+
+table {
+    border: 1px;
+    border-collapse: collapse;
+    margin: .5em;
+}
+th, td{
+    border: 1px;
+    padding: .4em;
+    text-align: right;
+}
+
+tbody{
+    border: 1px;
+    padding: .4em;
+    text-align: right;
+}
